@@ -172,3 +172,5 @@ C:\Training\hangfire\HangFire_example\HangFire\bin\Debug\net9.0\ru\Microsoft.Cod
 C:\Training\hangfire\HangFire_example\HangFire\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Training\hangfire\HangFire_example\HangFire\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Training\hangfire\HangFire_example\HangFire\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Training\hangfire\HangFire_example\hangfire\obj\Debug\net9.0\HangFire.sourcelink.json
+C:\Training\hangfire\HangFire_example\hangfire\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

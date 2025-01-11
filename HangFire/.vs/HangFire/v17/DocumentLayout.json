@@ -3,20 +3,68 @@
   "WorkspaceRootPath": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Training\\hangfire\\HangFire_example\\HangFire\\Migrations\\20250111123224_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250111123224_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\hangfire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:hangfire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\repository\\taskrepo\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:repository\\taskrepo\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\repository\\taskrepo\\itaskrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:repository\\taskrepo\\itaskrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\hangfire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:hangfire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\hangfireauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:hangfireauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\data\\domains\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:data\\domains\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\data\\domains\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:data\\domains\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\data\\domains\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:data\\domains\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\hangfire.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -25,6 +73,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|c:\\training\\hangfire\\hangfire_example\\hangfire\\migrations\\20250111123224_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF68C2E-BA0D-4CD6-ADEF-1925B2D28D58}|HangFire.csproj|solutionrelative:migrations\\20250111123224_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +86,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Repository\\TaskRepo\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TaskRepo\\TaskRepository.cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Repository\\TaskRepo\\TaskRepository.cs",
+              "RelativeToolTip": "Repository\\TaskRepo\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:47:40.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaskRepository .cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\hangfire\\Repository\\TaskRepo\\ITaskRepository .cs",
+              "RelativeDocumentMoniker": "Repository\\TaskRepo\\ITaskRepository .cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\hangfire\\Repository\\TaskRepo\\ITaskRepository .cs",
+              "RelativeToolTip": "Repository\\TaskRepo\\ITaskRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:43:56.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\hangfire\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\hangfire\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:41:22.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:40:56.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwEQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:27:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "Services\\ReportService.cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Services\\ReportService.cs",
+              "RelativeToolTip": "Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:26:32.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskService.cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Services\\TaskService.cs",
+              "RelativeToolTip": "Services\\TaskService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:22:52.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Data\\Domains\\Task.cs",
+              "RelativeDocumentMoniker": "Data\\Domains\\Task.cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Data\\Domains\\Task.cs",
+              "RelativeToolTip": "Data\\Domains\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:20:33.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\hangfire\\Data\\Domains\\Manager.cs",
+              "RelativeDocumentMoniker": "Data\\Domains\\Manager.cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\hangfire\\Data\\Domains\\Manager.cs",
+              "RelativeToolTip": "Data\\Domains\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:19:54.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Data\\Domains\\Employee.cs",
+              "RelativeDocumentMoniker": "Data\\Domains\\Employee.cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Data\\Domains\\Employee.cs",
+              "RelativeToolTip": "Data\\Domains\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:19:32.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HangFire.csproj",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\hangfire\\HangFire.csproj",
+              "RelativeDocumentMoniker": "HangFire.csproj",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\hangfire\\HangFire.csproj",
+              "RelativeToolTip": "HangFire.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T18:39:53.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:03:26.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "20250111123224_init.cs",
               "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Migrations\\20250111123224_init.cs",
               "RelativeDocumentMoniker": "Migrations\\20250111123224_init.cs",
@@ -51,46 +259,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AppDbContext .cs",
               "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Data\\AppDbContext .cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext .cs",
               "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Data\\AppDbContext .cs",
               "RelativeToolTip": "Data\\AppDbContext .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T12:27:30.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HangFire",
-              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\HangFire.csproj",
-              "RelativeDocumentMoniker": "HangFire.csproj",
-              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\HangFire.csproj",
-              "RelativeToolTip": "HangFire.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-11T12:12:18.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T12:09:25.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "HangfireAuthorizationFilter.cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\HangfireAuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "HangfireAuthorizationFilter.cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\HangfireAuthorizationFilter.cs",
+              "RelativeToolTip": "HangfireAuthorizationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:52:02.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:50:49.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "HangFire.http",
               "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\HangFire.http",
               "RelativeDocumentMoniker": "HangFire.http",
@@ -103,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",

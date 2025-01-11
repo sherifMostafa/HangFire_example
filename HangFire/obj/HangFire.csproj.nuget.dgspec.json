@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\hangfire\\HangFire_example\\HangFire\\HangFire.csproj": {}
+    "C:\\Training\\hangfire\\HangFire_example\\hangfire\\HangFire.csproj": {}
   },
   "projects": {
-    "C:\\Training\\hangfire\\HangFire_example\\HangFire\\HangFire.csproj": {
+    "C:\\Training\\hangfire\\HangFire_example\\hangfire\\HangFire.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\HangFire.csproj",
+        "projectUniqueName": "C:\\Training\\hangfire\\HangFire_example\\hangfire\\HangFire.csproj",
         "projectName": "HangFire",
-        "projectPath": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\HangFire.csproj",
+        "projectPath": "C:\\Training\\hangfire\\HangFire_example\\hangfire\\HangFire.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\hangfire\\HangFire_example\\HangFire\\obj\\",
+        "outputPath": "C:\\Training\\hangfire\\HangFire_example\\hangfire\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -80,6 +80,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[7.2.0, )"
             }
           },
           "imports": [
